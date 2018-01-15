@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Oct 2017 23:59:34 at http://www.dodladairy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.dodladairy.com/ -O1 "C:\ball baba\doodla" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:59:36	Warning: 	Note: due to www.dodladairy.com remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin/, /tmp/, /junk/, /jobOpeningsEntry/, /upload/, /jobSummary/ (see in the options to disable this)
+00:01:56	Warning: 	Retry after error -4 (Incorrect length (420913 Bytes, 793092 expected)) at link www.dodladairy.com/images/CSR-DDL-V.0.2.pdf (from www.dodladairy.com/)
+00:02:21	Warning: 	Retry after error -4 (Incorrect length (529810 Bytes, 712182 expected)) at link www.dodladairy.com/images/Vigil-Mechanism.pdf (from www.dodladairy.com/)
+00:02:36	Warning: 	Retry after error -4 (Incorrect length (680350 Bytes, 1330330 expected)) at link www.dodladairy.com/images/PSH-Policy.pdf (from www.dodladairy.com/)
+00:14:30	Error: 	"Not Found" (404) at link www.dodladairy.com/www.dodladairy.com (from www.dodladairy.com/)
+00:14:30	Error: 	"Not Found" (404) at link www.dodladairy.com/images/logo.png (from www.dodladairy.com/css/main.css)
+00:14:30	Warning: 	Retry after error -4 (Incorrect length (1186616 Bytes, 1330330 expected)) at link www.dodladairy.com/images/PSH-Policy.pdf (from www.dodladairy.com/)
+00:14:36	Warning: 	Retry after error -4 (Incorrect length (217955 Bytes, 437706 expected)) at link www.dodladairy.com/images/sample/slider/inner_08.jpg (from www.dodladairy.com/dodla-ghee.html)
+00:14:55	Warning: 	Retry after error -4 (Incorrect length (445450 Bytes, 616978 expected)) at link www.dodladairy.com/images/sample/slider/inner_09.jpg (from www.dodladairy.com/dodla-paneer.html)
+00:15:10	Error: 	"Not Found" (404) at link www.dodladairy.com/images/portfolio/thumb/cookingButter-01.png (from www.dodladairy.com/dodla-cooking-butter.html)
+00:15:10	Error: 	"Not Found" (404) at link www.dodladairy.com/images/portfolio/thumb/cookingButter-02.png (from www.dodladairy.com/dodla-cooking-butter.html)
+00:17:41	Warning: 	Retry after error -4 (Incorrect length (479092 Bytes, 3230355 expected)) at link www.dodladairy.com/images/finacial/Dodla-AR-2016.pdf (from www.dodladairy.com/financials.html)
+00:23:08	Error: 	"Not Found" (404) at link www.dodladairy.com/resumeSubmission1.php?edit_title= (from www.dodladairy.com/current_openings.php)
+00:23:10	Error: 	"Not Found" (404) at link www.dodladairy.com/plants.html (from www.dodladairy.com/current_openings.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 minutes 41 seconds : 203 links scanned, 189 files written (35294834 bytes overall) [34686851 bytes received at 24410 bytes/sec], 889394 bytes transferred using HTTP compression in 48 files, ratio 23%, 1.7 requests per connection
+(6 errors, 8 warnings, 0 messages)
